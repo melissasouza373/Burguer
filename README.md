@@ -25,7 +25,7 @@
 
 <!-- ---------------------------------------------------------------------- -->
 
-<!-- EXEMPLO DE LAYOUT: -->
+
 ## 🎨 Layout
 <img width="1332" height="611" alt="Captura de Tela (15)" src="https://github.com/user-attachments/assets/a5e3ff77-caee-4ca9-91cd-eda4fe520fbe" />
 <img width="1366" height="625" alt="Captura de Tela (16)" src="https://github.com/user-attachments/assets/5ae6b50f-7243-4a91-9426-5652db6e4a1e" />
