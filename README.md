@@ -2,35 +2,36 @@
 
 <!-- ---------------------------------------------------------------------- -->
 
-<!-- MODELO PROJETO FINALIZADO -->
 <h1 align="center"> 
-	  🚀✅ {Projeto Burguer} ✅🚀
+	   Burguer Simples 🍔
 </h1>
 
 <!-- ---------------------------------------------------------------------- -->
 
 
-## 💻 Sobre o projeto
+## 💻 Sobre o Projeto
 
-Projeto site de Hamburgueria desenvolvido com HTML, CSS e JavaScript com o objetivo de aplicar conceitos básicos de Layout, estilos e funcionalidades iniciais em JavaScript,
-reforçando o aprendizado em front-end.
----
+<p>Projeto iniciante feito com HTML, CSS e JavaScript.</p>
+
 
 <!-- ---------------------------------------------------------------------- -->
 ## ⚙️ Funcionalidades
 
-O projeto possui 4 botões interativos desenvolvidos com JavaScript, responsáveis por eventos de clique e interações básicas no desenvolvimento front-end.
+- Botão de lanches
+- Botão de desconto
+- Botão total
+- Opção vegana
 ---
 
 <!-- ---------------------------------------------------------------------- -->
 
 <!-- EXEMPLO DE LAYOUT: -->
 ## 🎨 Layout
+<img width="1332" height="611" alt="Captura de Tela (15)" src="https://github.com/user-attachments/assets/a5e3ff77-caee-4ca9-91cd-eda4fe520fbe" />
+<img width="1366" height="625" alt="Captura de Tela (16)" src="https://github.com/user-attachments/assets/5ae6b50f-7243-4a91-9426-5652db6e4a1e" />
+<img width="1366" height="618" alt="Captura de Tela (17)" src="https://github.com/user-attachments/assets/bf2e0eab-d61f-467e-b7b9-9c6a3f86e5d4" />
+<img width="1366" height="641" alt="Captura de Tela (18)" src="https://github.com/user-attachments/assets/e5db4253-70c1-49e3-a6aa-d72a638b9a8b" />
 
-<img width="1000" height="599" alt="Captura de Tela (8)" src="https://github.com/user-attachments/assets/452d626f-049f-4813-8fd7-13eaedc107e4" />
-<img width="1000" height="622" alt="Captura de Tela (9)" src="https://github.com/user-attachments/assets/974361fb-8c8c-4bd8-8e73-84a91114c684" />
-<img width="1003" height="570" alt="Captura de Tela (11)" src="https://github.com/user-attachments/assets/dd788b18-625c-4fd0-8f19-add3fa44cd5d" />
-<img width="1000" height="560" alt="Captura de Tela (10)" src="https://github.com/user-attachments/assets/b3239ac8-1c36-4f21-96ae-55492ebd1250" />
 
 
 
